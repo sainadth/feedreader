@@ -1,11 +1,11 @@
 ## Table of Contents
 
 -  [Project-Overview](#project-overview)
--  [Why-this-Project](#whythisproject)
--  [What-will-I-learn](#whatwillilearn)
--  [How-to-run](#howtorun)
--  [How-will-this-help-my-career](#howwillthishelpmycareer)
--  [Development-Strategy](#developmentstrategy)
+-  [Why-this-Project](#why-this-project)
+-  [What-will-I-learn](#what-will-i-learn)
+-  [How-to-run](#how-to-run)
+-  [How-will-this-help-my-career](#how-will-this-help-mycareer)
+-  [Development-Strategy](#development-strategy)
 -  [Contributing](#contributing)
 
 
